@@ -1,0 +1,8 @@
+# file hasil compile C++
+*.exe
+*.o
+*.obj
+*.out
+
+# setting VS Code
+.vscode/
